@@ -1,0 +1,16 @@
+{
+  "sample": true,
+  "title": "Análisis dimensional",
+  "questions": [
+    {"id":"q1","prompt":"¿Cuál de las siguientes magnitudes es fundamental en el Sistema Internacional?","options":["Velocidad","Fuerza","Longitud","Energía","Presión"],"correct":2,"explanation":"La longitud es una de las siete magnitudes fundamentales del SI. Su unidad es el metro."},
+    {"id":"q2","prompt":"La velocidad es el cociente entre desplazamiento y tiempo. ¿Cuál es su fórmula dimensional?","options":["LT⁻¹","LT⁻²","MLT⁻¹","L²T⁻¹","T⁻¹"],"correct":0,"explanation":"[v] = [desplazamiento]/[tiempo] = L/T = LT⁻¹."},
+    {"id":"q3","prompt":"Si a = Δv/Δt, ¿cuál es la fórmula dimensional de la aceleración?","options":["LT⁻¹","L²T⁻²","MLT⁻²","LT⁻²","T⁻²"],"correct":3,"explanation":"[a] = [v]/[t] = (LT⁻¹)/T = LT⁻²."},
+    {"id":"q4","prompt":"De acuerdo con F = ma, la dimensión de la fuerza es:","options":["ML²T⁻²","MLT⁻²","ML⁻¹T⁻²","MLT⁻¹","MT⁻²"],"correct":1,"explanation":"[F] = [m][a] = M × LT⁻² = MLT⁻²."},
+    {"id":"q5","prompt":"El trabajo de una fuerza constante paralela al desplazamiento cumple W = Fd. ¿Cuál es [W]?","options":["MLT⁻²","ML²T⁻³","ML⁻¹T⁻²","ML²T⁻¹","ML²T⁻²"],"correct":4,"explanation":"[W] = [F][d] = MLT⁻² × L = ML²T⁻²."},
+    {"id":"q6","prompt":"Si la presión se define como P = F/A, donde A es un área, ¿cuál es [P]?","options":["MLT⁻²","ML²T⁻²","ML⁻¹T⁻²","ML⁻²T⁻²","MT⁻²"],"correct":2,"explanation":"[P] = MLT⁻²/L² = ML⁻¹T⁻²."},
+    {"id":"q7","prompt":"En la ecuación dimensionalmente homogénea x = At² + Bt, x representa una longitud y t un tiempo. ¿Cuáles son [A] y [B]?","options":["LT⁻² y LT⁻¹","LT⁻¹ y LT⁻²","L y T","LT² y LT","T⁻² y T⁻¹"],"correct":0,"explanation":"Cada término debe tener dimensión L. Por ello, [A]T² = L y [B]T = L, de donde [A] = LT⁻² y [B] = LT⁻¹."},
+    {"id":"q8","prompt":"Un resorte obedece a F = kx. Si x es la deformación, ¿cuál es la fórmula dimensional de k?","options":["MLT⁻²","ML²T⁻²","MT⁻¹","MT⁻²","ML⁻¹T⁻²"],"correct":3,"explanation":"[k] = [F]/[x] = MLT⁻²/L = MT⁻²."},
+    {"id":"q9","prompt":"En la ley de gravitación F = Gm₁m₂/r², ¿cuál es la fórmula dimensional de G?","options":["ML³T⁻²","M⁻¹L³T⁻²","M⁻¹L²T⁻²","ML⁻³T⁻²","M⁻²L³T⁻²"],"correct":1,"explanation":"[G] = [F][r]²/([m₁][m₂]) = (MLT⁻²)L²/M² = M⁻¹L³T⁻²."},
+    {"id":"q10","prompt":"Dos magnitudes tienen la misma fórmula dimensional. ¿Qué se puede concluir necesariamente?","options":["Son la misma magnitud física","Tienen el mismo valor numérico","Son ambas fundamentales","Poseen la misma unidad en cualquier sistema","Son dimensionalmente equivalentes"],"correct":4,"explanation":"Tener iguales dimensiones establece equivalencia dimensional. No obliga a que las magnitudes sean físicamente idénticas, como ocurre con el trabajo y el momento de una fuerza."}
+  ]
+}

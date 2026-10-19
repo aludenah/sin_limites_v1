@@ -1,0 +1,3638 @@
+[
+  {
+    "id": "razonamiento-verbal",
+    "name": "Habilidad Verbal",
+    "category": "Habilidades",
+    "icon": "messages",
+    "color": "#6954b8",
+    "description": "Comprende, relaciona y resuelve.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Sinónimos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Modelo DECO",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Antonimia y significado contextual",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Denotación y connotación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Relaciones semánticas en el texto",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "La comprensión lectora",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Tema central",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Idea principal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Jerarquía y organización textual",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Cohesión y conectores",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Coherencia textual",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Síntesis y resumen",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Compatibilidad literal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Incompatibilidad literal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Inferencia de datos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Inferencia léxica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Inferencia causal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Inferencia de intención y prospectiva",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Extrapolación cognitiva y referencial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Textos dialécticos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Textos con gráficos e infografías",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Tablas y gráficos estadísticos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Textos en inglés: comprensión básica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Práctica integral de comprensión lectora",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "razonamiento-matematico",
+    "name": "Habilidad Lógico-Matemática",
+    "category": "Habilidades",
+    "icon": "puzzle",
+    "color": "#32747a",
+    "description": "Comprende, relaciona y resuelve.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Verdades y mentiras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Interpretación de enunciados",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Cortes y seccionamientos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Elementos recreativos: dominós, dados y cerillos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Ordenamiento de información y lazos familiares",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Máximos y mínimos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Pesadas y balanzas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Arreglos y distribuciones numéricas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Calendarios y relación de tiempos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Traslados",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Frecuencia de sucesos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Razonamiento inductivo numérico, verbal y geométrico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Cronometría",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Simbolización y planteo de ecuaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Rotación y traslación de figuras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Rutas, trayectorias y puntos cardinales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Trazo de figuras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Conteo de figuras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Simetría y reflexiones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Visualización de figuras en el espacio",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Perímetros, áreas, congruencia y semejanza",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Ruedas, poleas y engranajes",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Tablas, gráficos y situaciones deportivas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Suficiencia de datos, certeza, deducción y diagramas de flujo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "aritmetica",
+    "name": "Aritmética",
+    "category": "Matemática",
+    "icon": "calculator",
+    "color": "#3564af",
+    "description": "Ideas claras para resolver problemas.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Lógica proposicional y tablas de verdad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Conjuntos: determinación, relaciones y operaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Números naturales: operaciones elementales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Potenciación y radicación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Sistema de numeración decimal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Números enteros y relaciones de orden",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Algoritmo de la división y divisibilidad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Números primos, factorización y divisores",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Máximo común divisor y algoritmo de Euclides",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Mínimo común múltiplo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Fracciones ordinarias",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Números racionales: operaciones y orden",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Representación decimal de una fracción",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Razones y proporciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Series de razones geométricas iguales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Magnitudes directa e inversamente proporcionales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Reparto proporcional y regla de tres",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Porcentajes",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Sucesiones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Progresiones aritméticas y geométricas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Sumatorias: interés, descuento, mezclas y aleaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Medidas de tendencia central",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Medidas de posición, dispersión, tablas y gráficos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Combinatoria y probabilidad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "geometria",
+    "name": "Geometría",
+    "category": "Matemática",
+    "icon": "shapes",
+    "color": "#bd7840",
+    "description": "Ideas claras para resolver problemas.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Segmentos de recta",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Ángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Rectas paralelas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Teoremas fundamentales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Líneas notables",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Congruencia de triángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Cuadriláteros y polígonos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Circunferencia y ángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Circunferencias inscritas y circunscritas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Puntos notables del triángulo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Teorema de Tales y semejanza",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Teorema de Pitágoras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Teoremas de la bisectriz y la mediana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Relaciones métricas en triángulos y circunferencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Áreas de triángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Áreas de cuadriláteros y polígonos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Longitud de circunferencia, círculo y sector circular",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Poliedros convexos y regulares",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Prismas, pirámides y troncos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Cilindro, cono y troncos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Esfera: áreas y volúmenes",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Geometría analítica: distancia y ecuación de la recta",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Posiciones relativas y ángulo entre rectas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Circunferencia, parábola y elipse",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "algebra",
+    "name": "Álgebra",
+    "category": "Matemática",
+    "icon": "function",
+    "color": "#5964b8",
+    "description": "Ideas claras para resolver problemas.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Números reales: operaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Intervalos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Valor absoluto",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Números complejos: forma binomial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Módulo y conjugado de complejos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Ecuaciones de primer y segundo grado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Ecuaciones bicuadradas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Inecuaciones de primer y segundo grado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Sistemas lineales de dos y tres variables",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Métodos de Cramer y Gauss",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Sistemas de inecuaciones y programación lineal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Expresiones algebraicas: operaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Potenciación y radicación algebraica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Polinomios y grado de expresiones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Adición y multiplicación de polinomios",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "División de polinomios: método clásico, Ruffini y Horner",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Teoremas del resto y del factor",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Productos notables, Binomio de Newton y cocientes notables",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Factorización de polinomios",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "MCD, MCM y teorema fundamental del álgebra",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Raíces y coeficientes de un polinomio",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Funciones: dominio, rango y representación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Funciones elementales, paridad y monotonía",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Funciones inversas, exponenciales, logarítmicas y modelación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "trigonometria",
+    "name": "Trigonometría",
+    "category": "Matemática",
+    "icon": "triangle",
+    "color": "#2e8793",
+    "description": "Ideas claras para resolver problemas.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Sistemas sexagesimal, centesimal y radial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Conversión entre sistemas angulares",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Longitud de arco",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Área de un sector circular",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Razones trigonométricas en triángulos rectángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Ángulos notables: 30°, 45° y 60°",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Ángulos notables: 37° y 53°",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Ángulos complementarios",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Resolución de triángulos rectángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Ángulo en posición normal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Círculo trigonométrico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Reducción al primer cuadrante",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Razones trigonométricas de ángulos negativos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Identidades fundamentales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Suma y diferencia de ángulos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Ángulo doble",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Ángulo mitad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Transformaciones de suma o diferencia a producto",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Ecuaciones trigonométricas elementales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Ecuaciones trigonométricas no elementales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Ley de senos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Leyes de cosenos y tangentes",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Ángulos de elevación y depresión",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Funciones trigonométricas, inversas y aplicaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "lenguaje",
+    "name": "Lenguaje",
+    "category": "Letras",
+    "icon": "text",
+    "color": "#6268aa",
+    "description": "Comprende el lenguaje y sus expresiones.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "La comunicación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "El lenguaje",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Realidad lingüística y el español en el Perú",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Fonología y fonética",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "La sílaba y secuencias vocálicas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Acentuación prosódica y ortográfica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Acentuación especial y diacrítica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Mayúsculas, minúsculas y uso de grafías",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Morfología y formación de palabras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Lexicología y signo lingüístico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Semántica, contexto y situación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Relaciones semánticas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Frase nominal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "El sustantivo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "El adjetivo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Determinantes y pronombres",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Frase verbal y el verbo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Conjugación y clasificación del verbo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Adverbio, preposición y conjunción",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "La oración y su clasificación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Sujeto, predicado y concordancia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Oración compuesta coordinada",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Oración compuesta subordinada",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Signos de puntuación y discurso escrito",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "literatura",
+    "name": "Literatura",
+    "category": "Letras",
+    "icon": "book",
+    "color": "#ac637b",
+    "description": "Comprende el lenguaje y sus expresiones.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Géneros literarios",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Figuras literarias",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Épica griega: Ilíada y Odisea",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Tragedia griega: Sófocles y Edipo rey",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Shakespeare: Romeo y Julieta",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Romanticismo: Goethe",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Realismo: Dostoyevski",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Literatura contemporánea: Kafka",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Edad Media española: Poema del Mio Cid",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Barroco español: Cervantes y Don Quijote",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Calderón de la Barca: La vida es sueño",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Romanticismo español: Bécquer",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Modernismo hispanoamericano: Rubén Darío",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Pablo Neruda",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Jorge Luis Borges",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Alejo Carpentier",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Gabriel García Márquez",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Inca Garcilaso de la Vega",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Manuel Ascencio Segura",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Ricardo Palma",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Clorinda Matto de Turner y Manuel González Prada",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Eguren, Valdelomar y Vallejo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Indigenismo: Ciro Alegría y José María Arguedas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Generación del 50: Varela, Ribeyro y Vargas Llosa",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "psicologia",
+    "name": "Psicología",
+    "category": "Humanidades",
+    "icon": "brain",
+    "color": "#7860ad",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Orígenes de la Psicología como ciencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Psicoanálisis",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Conductismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Humanismo y cognitivismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Bases fisiológicas del comportamiento",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Proceso de socialización",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Roles sociales y normas de convivencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Familia, apego y estilos de crianza",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Actitudes y valores",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Sensación y atención",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Percepción y memoria",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Pensamiento y lenguaje",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Desarrollo de la inteligencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Aprendizaje por condicionamiento",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Aprendizaje significativo y por descubrimiento",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Aprendizaje observacional, cooperativo y autorregulado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Factores del desarrollo humano",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Dimensiones del desarrollo humano",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Etapas del ciclo vital",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Identidad, imagen corporal y autoestima",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Amistad, enamoramiento y sexualidad responsable",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Estilo de vida saludable y conductas de riesgo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Proyecto de vida y orientación vocacional",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Afectividad, inteligencia emocional y motivación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "educacion-civica",
+    "name": "Educación Cívica",
+    "category": "Humanidades",
+    "icon": "scale",
+    "color": "#a15e5b",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Derechos humanos: concepto y características",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Derecho internacional de los derechos humanos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Declaración Universal de los Derechos Humanos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Convención sobre los Derechos del Niño",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Sistema interamericano de derechos humanos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Derechos fundamentales de la persona",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "La Constitución y las garantías constitucionales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Ciudadanía y participación ciudadana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Iniciativa legislativa, reforma constitucional y referéndum",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Revocatoria, remoción y rendición de cuentas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Presupuesto participativo y consulta previa",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Sociedad civil y movimientos sociales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Convivencia democrática y cultura de paz",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Discriminación, delitos y corrupción",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Resolución democrática de conflictos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Violencia terrorista, pacificación y reconciliación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Diversidad étnica, lingüística y patrimonio",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Identidad cultural e interculturalidad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Estado de derecho y deberes del Estado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Poder Legislativo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Poder Ejecutivo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Poder Judicial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Seguridad y Defensa Nacional",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Organismos constitucionales autónomos y sistema electoral",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "historia-del-peru",
+    "name": "Historia del Perú",
+    "category": "Humanidades",
+    "icon": "landmark",
+    "color": "#ad6e3e",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Poblamiento americano",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Periodos Lítico y Arcaico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Periodo Formativo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Desarrollos regionales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Estados panandinos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Estados regionales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Tawantinsuyo: origen y expansión",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Organización del Tawantinsuyo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Caída del Tawantinsuyo y resistencia andina",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Establecimiento del orden virreinal y reformas toledanas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Virreinato: política, sociedad, economía y cultura",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Reformas borbónicas y rebeliones andinas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Crisis del Imperio español y Cortes de Cádiz",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Corrientes libertadoras e independencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Primer Militarismo y Confederación Perú-Boliviana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Prosperidad Falaz y Primer Civilismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Guerra del Pacífico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Reconstrucción Nacional y República Aristocrática",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Oncenio y Tercer Militarismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Primavera Democrática, Ochenio y Convivencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Primer gobierno de Belaúnde y Gobierno de las Fuerzas Armadas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Gobiernos de la década de 1980 y conflicto armado interno",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Gobierno de Fujimori y transición democrática",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Gobiernos del siglo XXI y crisis política hasta el bicentenario",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "historia-universal",
+    "name": "Historia Universal",
+    "category": "Humanidades",
+    "icon": "globe",
+    "color": "#5d74a0",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Introducción a la historia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Hominización y Prehistoria",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Mesopotamia y Egipto",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "India y China",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Grecia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Roma",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Reinos bárbaros e Imperio bizantino",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Islam e Imperio carolingio",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Feudalismo, Iglesia medieval y cruzadas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Crisis de la Baja Edad Media y orígenes del capitalismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Humanismo, Renacimiento y expansión europea",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Reforma, Contrarreforma y monarquías absolutas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Primera Revolución Industrial e independencia de las Trece Colonias",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Revolución francesa",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Era napoleónica, Restauración y revoluciones liberales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Segunda Revolución Industrial e imperialismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Primera Guerra Mundial y Revolución rusa",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Periodo de entreguerras",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Segunda Guerra Mundial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Guerra Fría",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Descolonización, Revolución china y Revolución cubana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "América Latina y conflicto árabe-israelí",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Desintegración de la URSS y cambios en Europa",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Guerras del golfo Pérsico y nuevo orden mundial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "geografia",
+    "name": "Geografía",
+    "category": "Humanidades",
+    "icon": "map",
+    "color": "#45866d",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Geosistema y espacio geográfico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Líneas imaginarias y coordenadas geográficas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Cartografía: mapas, cartas y planos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Fuerzas geológicas internas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Fuerzas geológicas externas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Geosfera, deriva continental y placas tectónicas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Relieve submarino y costero del Perú",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Relieve de la región andina",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Relieve de la selva",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Clima del Perú según Senamhi",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Desastres climáticos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Fenómenos El Niño y La Niña",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Calentamiento global y acuerdos climáticos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Vertientes hidrográficas del Perú",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Mar peruano, Corriente peruana y glaciares",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Cuencas hidrográficas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Gestión del riesgo de desastres",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Vulnerabilidad, exposición, fragilidad y resiliencia",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Biodiversidad y biomas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Amazonía, Antártida y áreas naturales protegidas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Problemas ambientales y desarrollo sostenible",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Actividades económicas e IDH",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Población, migraciones y organización territorial del Perú",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Continentes: elementos físicos, sociales y recursos naturales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "economia",
+    "name": "Economía",
+    "category": "Humanidades",
+    "icon": "chart",
+    "color": "#ad8032",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "La ciencia económica y sus métodos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Necesidades humanas y problemas económicos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Escasez, eficiencia y costo de oportunidad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Flujo circular, microeconomía y macroeconomía",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Demanda y elasticidades",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Producción, costos e ingresos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Oferta y elasticidades",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Competencia perfecta e imperfecta",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Fallas de mercado y organismos reguladores",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Mercado de factores y capital humano",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Salarios y productividad laboral",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Sistema financiero",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Dinero, oferta y demanda monetaria",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Banco Central, política monetaria y tasa de interés",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Estado y política fiscal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Presupuesto público y deuda pública",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Sistema tributario",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Consumo, ahorro, inversión e inflación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Balanza de pagos y comercio internacional",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Política comercial y mercado cambiario",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Integración económica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Ciclo, crecimiento, desarrollo económico y humano",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Informalidad, distribución de ingresos y pobreza",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Emprendimiento y evaluación de proyectos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "filosofia",
+    "name": "Filosofía",
+    "category": "Humanidades",
+    "icon": "bulb",
+    "color": "#6f65ad",
+    "description": "Conoce al ser humano y su entorno.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Etimología, definición y origen de la filosofía",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Características y disciplinas filosóficas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Filosofía antigua",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Filosofía moderna",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Filosofía contemporánea",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Filosofía latinoamericana y peruana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Etapas de la filosofía latinoamericana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Filosofía latinoamericana del siglo XX y contemporánea",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Naturaleza humana y subjetividad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Individuo y sociedad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Problemas éticos y dilemas morales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Poder y Estado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Tolerancia, pluralismo, democracia y feminismo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Conocimiento científico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Ciencia y método científico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Problemas e hipótesis científicas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Crítica a la ciencia y la tecnología",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Lenguaje, ciencia, verdad y política",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Teoría de la argumentación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Premisas y conclusiones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Paradojas y falacias",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Argumentación en la investigación científica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Apreciación estética y arte contemporáneo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Arte, cultura, sociedad y estética",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "fisica",
+    "name": "Física",
+    "category": "Ciencias",
+    "icon": "atom",
+    "color": "#2b70ad",
+    "description": "Explica el mundo con la ciencia.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Análisis dimensional",
+        "videoUrl": null,
+        "questionsFile": "data/questions/fisica-01.json",
+        "questionStatus": "sample",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Análisis vectorial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Cinemática y movimiento rectilíneo uniforme",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Movimiento rectilíneo uniformemente variado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Movimiento vertical de caída libre",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Movimiento parabólico de caída libre",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Movimiento circunferencial uniforme y variado",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Estática: equilibrio de fuerzas y momentos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Dinámica rectilínea y circunferencial",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Cantidad de movimiento, colisiones y gravitación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Trabajo, energía y potencia mecánica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Temperatura y dilatación",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Calorimetría y cambios de fase",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Hidrostática e hidrodinámica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Electrostática: fuerza y campo eléctrico",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Potencial eléctrico y condensadores",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Corriente eléctrica, resistencia y ley de Ohm",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Circuitos eléctricos y leyes de Kirchhoff",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Campo magnético y fuerza magnética",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Inducción electromagnética",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Movimiento armónico simple",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Ondas mecánicas y sonido",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Óptica y ondas electromagnéticas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Física moderna",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "quimica",
+    "name": "Química",
+    "category": "Ciencias",
+    "icon": "flask",
+    "color": "#5c8d77",
+    "description": "Explica el mundo con la ciencia.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Materia y energía",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Modelos atómicos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Estructura atómica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Números cuánticos y configuración electrónica",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Tabla periódica y propiedades periódicas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Enlace químico y fuerzas intermoleculares",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Nomenclatura y funciones inorgánicas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Reacciones químicas y ecuaciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Reacciones redox y balanceo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Mol, masa molar y leyes ponderales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Cálculos estequiométricos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Reactivo limitante, pureza y rendimiento",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Estado gaseoso y leyes de los gases",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Estados líquido y sólido",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Soluciones, concentración y diluciones",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Ácidos, bases, neutralización y pH",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Cinética química",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Equilibrio químico y Le Chatelier",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Electroquímica: pilas y electrólisis",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Química orgánica: carbono e hidrocarburos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Compuestos oxigenados",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Compuestos nitrogenados",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Recursos naturales y contaminación ambiental",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Calidad y potabilización del agua",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  },
+  {
+    "id": "biologia",
+    "name": "Biología",
+    "category": "Ciencias",
+    "icon": "leaf",
+    "color": "#3b8b6e",
+    "description": "Explica el mundo con la ciencia.",
+    "topics": [
+      {
+        "id": "01",
+        "title": "Glúcidos y lípidos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "02",
+        "title": "Biología, seres vivos, niveles de organización y virus",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "03",
+        "title": "Agua, sales, proteínas, ácidos nucleicos y vitaminas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "04",
+        "title": "Teoría celular y célula procariota",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "05",
+        "title": "Célula eucariota, organelas, núcleo y síntesis de proteínas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "06",
+        "title": "Tejidos vegetales y animales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "07",
+        "title": "Nutrición, fotosíntesis y respiración celular",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "08",
+        "title": "Intercambio gaseoso y sistema respiratorio",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "09",
+        "title": "Digestión y sistema digestivo",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "10",
+        "title": "Circulación y transporte en plantas y animales",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "11",
+        "title": "Sistema linfático",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "12",
+        "title": "Excreción y sistema urinario",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "13",
+        "title": "Sistema inmunológico e inmunidad",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "14",
+        "title": "Coordinación química y sistema endocrino",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "15",
+        "title": "Sistema nervioso y órganos de los sentidos",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "16",
+        "title": "Ciclo celular, mitosis y meiosis",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "17",
+        "title": "Reproducción vegetal, animal y humana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "18",
+        "title": "Genética mendeliana, dominancia y alelos múltiples",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "19",
+        "title": "Genética del sexo, mutaciones y bioética",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "20",
+        "title": "Origen de la vida, evolución y evolución humana",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "21",
+        "title": "Clasificación y reino Animal",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "22",
+        "title": "Reino Plantae",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "23",
+        "title": "Salud, higiene y enfermedades infecciosas",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      },
+      {
+        "id": "24",
+        "title": "Ecología, recursos naturales y desarrollo sostenible",
+        "videoUrl": null,
+        "questionsFile": null,
+        "questionStatus": "pending",
+        "solutionUrl": null
+      }
+    ]
+  }
+]
